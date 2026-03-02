@@ -1,0 +1,102 @@
+{
+    "snar": {
+        "name": "🛡 Снаряжение",
+        "subcats": {
+            "broniki": {
+                "name": "Бронежилеты",
+                "items": [
+                    {"id": "101", "name": "Бронежилет «Щит»", "price": "72 500 ₽", "photo": "AgACAgIAAxkBAAICc2laPqToz4P47eyr6he8HfZik-4TAAIoDmsbHRbRSk_N7Uj4sY40AQADAgADeAADOAQ", "desc": "Бронежилет «Щит» Бр5. Керамические плиты из оксида алюминия + подложка СВМПЭ. Класс защиты Бр5, материал Cordura 1000D."},
+                    {"id": "102", "name": "Бронежилет штурмовой Атлант", "price": "158 000 ₽", "photo": "AgACAgIAAxkBAAICjWlaQKVzdetRwG7EXS0rjozD20VqAAI-DmsbHRbRSo-I6-qAJc61AQADAgADeAADOAQ", "desc": "Штурмовой бронежилет «Атлант» Бр5. Максимальная площадь защиты торса, шеи, плеч и паха. Анатомический крой, быстрый сброс."},
+                    {"id": "103", "name": "Бронежилет LBT 094A", "price": "16 800 ₽", "photo": "AgACAgIAAxkBAAICkGlaQWsUOQqS2e4ZtINwqLfCUjf1AAJHDmsbHRbRSmWX02P_evlFAQADAgADeAADOAQ", "desc": "Плитник LBT 094A «Sentinel». Легендарная модель с системой быстрого сброса. Легкий, прочный, система MOLLE."},
+                    {"id": "104", "name": "Бронежилет скрытого ношения", "price": "59 900 ₽", "photo": "AgACAgIAAxkBAAIC7WlafJEFE7DuRhmm0gxBp9RXigLLAALIC2sbHRbZSvkCdrlJ4IT6AQADAgADeAADOAQ", "desc": "Жилет скрытого ношения. Ультратонкий профиль с баллистическим пакетом Бр1/Бр2. Незаметен под одеждой."}
+                ]
+            },
+            "plity": {
+                "name": "Бронеплиты",
+                "items": [
+                    {"id": "201", "name": "Плита для бронежилета Бр5", "price": "25 900 ₽", "photo": "AgACAgIAAxkBAAIC8WlafJEmBL_mpTir7u6THyymqpaXAALLC2sbHRbZSqfK0RYLk1fnAQADAgADeAADOAQ", "desc": "Монолитная керамическая плита Бр5 (Al2O3 + СВМПЭ). Анатомический изгиб Multi-Curve. Размер 250x300 мм, вес 2.8 кг."},
+                    {"id": "202", "name": "Боковая плита Бр5", "price": "10 000 ₽ ", "photo": "AgACAgIAAxkBAAIC6mlafI5xp09s6QZ_UICzkNF0AwepAALGC2sbHRbZSv-dvSokAjZgAQADAgADeAADOAQ", "desc": "Боковая керамическая плита Бр5. Максимальный уровень защиты боковых проекций. В комплекте 2 штуки."},
+                    {"id": "203", "name": "Боковая плита Бр2", "price": "4 200 ₽", "photo": "AgACAgIAAxkBAAIGHmlf84wYfkkZm1ygD0eHBSCezvsmAALODmsbU-ABSwYL26goebg1AQADAgADeAADOAQ", "desc": "Боковая мягкая плита Бр2. Изготовлена из СВМПЭ для защиты боковых проекций от осколков и пистолетных пуль."}
+                ]
+            },
+            "shlemy": {
+                "name": "Шлемы защитные",
+                "items": [
+                    {"id": "301", "name": "Шлем Атом-2 Multicam", "price": "50 000 ₽", "photo": "AgACAgIAAxkBAAIDOmlakDFhI5woWIg4ovp1E1sBT7pLAAJkDGsbHRbZSsH7Irti2DqsAQADAgADeAADOAQ", "desc": "Баллистический шлем «Атом-2» арамид, цвет Multicam. Класс защиты Бр1, форм-фактор High Cut (безухий). Вес 1.4-1.6 кг."},
+                    {"id": "302", "name": "Шлем Атом-2 Мох", "price": "50 000 ₽", "photo": "AgACAgIAAxkBAAIGL2lf9F8L88vytl5xXI7U3Ed8Z7nFAALSDmsbU-ABS1aKfzcUhlFqAQADAgADeAADOAQ", "desc": "Баллистический шлем «Атом-2» арамид, цвет Мох. Класс защиты Бр1, подвесная система, рельсы ARC, шрауд для ПНВ."},
+                    {"id": "303", "name": "Шлем Атом СВМПЭ", "price": "35 000 ₽", "photo": "AgACAgIAAxkBAAIGMWlf9p0v8wmhwVLqtjKmleIuEVdFAALoDmsbU-ABSxTsDkfscNviAQADAgADeAADOAQ", "desc": "Баллистический шлем Атом из СВМПЭ. Легче арамидного, высокая защита. Покрытие полиуретановое матовое."}
+                ]
+            },
+            "zashita": {
+                "name": "Противоосколочная защита",
+                "items": [
+                    {"id": "401", "name": "Воротник противоосколочный", "price": "4290 ₽", "photo": "AgACAgIAAxkBAAIGQ2lf-pRqAXTlHM0rVbw6z0Ilpg5WAAIYD2sbU-ABSypTDa_Mii_dAQADAgADeAADOAQ", "desc": "Баллистический модуль защиты области шейно-воротниковой части. Баллистические вставки можно извлечь для чистки чехла или замены наполнения. Внешняя часть изготовлена из кордуры, часть обращенная к телу из 3D сетки air-mesh для отвода влаги и лучшей вентиляции. Модуль настраивается по объему и положению относительно жилета."},
+                    {"id": "402", "name": "Пятиточечник Бр2", "price": "14 000 ₽", "photo": "AgACAgIAAxkBAAIGRWlf-t8NQSFtuhbpzrtIKLYRWx2kAAIaD2sbU-ABSyhTY2kG9aDbAQADAgADeAADOAQ", "desc": "Сидушка-пятиточечник с баллистикой Бр2. Защита от осколков и рикошетов. Раскладывается в коврик."},
+                    {"id": "403", "name": "Наплечники Купол", "price": "15 000 ₽", "photo": "AgACAgIAAxkBAAIGR2lf-wZWgb63ki3QK6DU0VvlzcTkAAIeD2sbU-ABS3GYOCB5UU27AQADAgADeAADOAQ", "desc": "Модули баллистической защиты плеч «Купол». Класс Бр1. Крепятся на велкро-клапан."}
+                ]
+            },
+            "odezhda": {
+                "name": "Одежда тактическая",
+                "items": [
+                    {"id": "501", "name": "Костюм Горка 8", "price": "6 775 ₽", "photo": "AgACAgIAAxkBAAIDPWlakKNlkOgCyS6wq6ZiLVsU1fi4AAJoDGsbHRbZSp9aB9q80t1FAQADAgADeAADOAQ", "desc": "Всесезонный костюм «Горка 8» от LEKSNIPER. Ткань Рип-стоп с мембраной, 12 карманов. Усиленные вставки, влагозащитная пропитка."},
+                    {"id": "502", "name": "Термобелье Noname Ultimate Black", "price": "9989 ₽", "photo": "AgACAgIAAxkBAAIGVGlf-_C8O36-CqdGoVpTCX37V4kbAAIxD2sbU-ABS9oct4ntzR4PAQADAgADeAADOAQ", "desc": "Температурный диапазон использования, зимой, как нижний слой одежды, можно смело рекомендовать до -20 градусов. Весной, летом, осенью, как верхний слой одежды для тренировок, подойдет вплоть до температуры +10. "},
+                    {"id": "503", "name": "Куртка SoftShell", "price": "10 600 ₽", "photo": "AgACAgIAAxkBAAIGV2lf_JGcSCr0d4V3vxnWzOmYTPaBAAI2D2sbU-ABS-YLe_VgQWJLAQADAgADeAADOAQ", "desc": "Тактическая куртка SoftShell. Трехслойная мембранная ткань: защита от ветра и дождя. Подкладка из флиса."}
+                ]
+            },
+            "snaryaga": {
+                "name": "Тактическое снаряжение",
+                "items": [
+                    {"id": "601", "name": "Аптечка отрывная", "price": "3 315 ₽", "photo": "AgACAgIAAxkBAAIDP2lakOmFwzEBoNVBjFNn3_Pu4htjAAJpDGsbHRbZSgYBfUf1MLLWAQADAgADeAADOAQ", "desc": "Индивидуальная аптечка IFAK. Отрывается одним движением для быстрого доступа. Крепление на платформу Velcro."},
+                    {"id": "602", "name": "Оперативный плитоносец", "price": "18 900 ₽", "photo": "AgACAgIAAxkBAAIGZWlf_ROmJS3FyNILXCI4Rk4Ld3hDAAJFD2sbU-ABSw4plqowLLlcAQADAgADeAADOAQ", "desc": "Легкий плитоносец для оперативных задач. Минималистичный дизайн, система MOLLE, быстрый сброс."},
+                    {"id": "603", "name": "Пояс тактический Warbelt", "price": "7 150 ₽", "photo": "AgACAgIAAxkBAAIGaGlf_Z_hd_Gd7_Fs64NX3jnh363BAAJLD2sbU-ABS9_yT7KYGP8xAQADAgADeAADOAQ", "desc": "Боевой разгрузочный пояс (Warbelt). Жесткий каркас, возможность установки баллистики Бр1."}
+                ]
+            }
+        }
+    },
+    "reb": {
+        "name": "📡 РЭБ и Детекторы",
+        "subcats": {
+            "podaviteli": {
+                "name": "Подавители дронов",
+                "items": [
+                    {"id": "701", "name": "Drone Killer 120W", "price": "181 000 ₽", "photo": "AgACAgIAAxkBAAIDTGlaxM7rllSaTjjOjMHkRGUj1E1kAAL_EGsbHRbZSgX7WtQne6WoAQADAgADeAADOAQ", "desc": "Переносной подавитель дронов «Drone Killer» 120W. Блокирует 6 каналов на дистанции до 2000 м. Мощность 120 Вт."},
+                    {"id": "702", "name": "Гарпия 120W", "price": "168 000 ₽", "photo": "AgACAgIAAxkBAAIGlWliTlCAgS9aOX7omsHDf_E1IwIzAAK1DmsbDpgQS93YrE7TllhoAQADAgADeAADOAQ", "desc": "Стационарная система РЭБ «Гарпия» 120W. Купольная защита периметра, подавление 6 частот (433-5800 МГц)."},
+                    {"id": "703", "name": "Teltos Drone 1200", "price": "155 000 ₽", "photo": "AgACAgIAAxkBAAIGk2liTbpZ7B8Uo7yJrFWTkbif2GP0AAKqDmsbDpgQSxRMY0wY_wmgAQADAgADeAADOAQ", "desc": "Ручной подавитель БПЛА Teltos Drone 1200. Высокая мощность, эффективное подавление на большой дистанции."}
+                ]
+            },
+            "detektory": {
+                "name": "Детекторы дронов",
+                "items": [
+                    {"id": "801", "name": "Детектор Булат v.4", "price": "88 000 ₽", "photo": "AgACAgIAAxkBAAIGo2liTp8Vvy2RsSyZMy8dHPExaMshAAK5DmsbDpgQS4Nz-36350DEAQADAgADeAADOAQ", "desc": "Всенаправленный детектор дронов «Булат» v.4. Обнаруживает все типы БПЛА на дистанции до 1.5 км."},
+                    {"id": "802", "name": "Детектор-анализатор БПЛА", "price": "101 000 ₽", "photo": "AgACAgIAAxkBAAIGpmliTvKLyD-ebM-JLc7r5iaZOyzCAALADmsbDpgQS8yKuiyNu1GOAQADAgADeAADOAQ", "desc": "Детектор-анализатор БПЛА Leksniper. Диапазон от 300 МГц до 6 ГГц. Анализ частот и типов дронов."},
+                    {"id": "803", "name": "JH-320 детектор БПЛА", "price": "340 000 ₽", "photo": "AgACAgIAAxkBAAIGqGliTzCHavNFhxtMOOmzJ2wkT4rqAALHDmsbDpgQSwNVil-xnPRPAQADAgADeAADOAQ", "desc": "Портативный детектор БПЛА JH-320. Профессиональное оборудование для обнаружения беспилотников."}
+                ]
+            }
+        }
+    },
+    "opt": {
+        "name": "🔭 Оптика",
+        "subcats": {
+            "teplovizory": {
+                "name": "Тепловизионные прицелы",
+                "items": [
+                    {"id": "901", "name": "Artelv Atomos LRF", "price": "361 000 ₽", "photo": "AgACAgIAAxkBAAIGqmliT11aBZ46Y1MfIfyijfoQFJh5AALJDmsbDpgQS2o_Yk6_iJrxAQADAgADeAADOAQ", "desc": "Тепловизионный прицел Artelv Atomos 4.8x 50мм 384x288 LRF. Дальномер, дистанция обнаружения до 2500 м."},
+                    {"id": "902", "name": "Artelv Electron LRF", "price": "204 400 ₽", "photo": "AgACAgIAAxkBAAIGrGliT4XDoS7pv6ra-38KN17vGkZbAALMDmsbDpgQS9ufUtmbdu9rAQADAgADeAADOAQ", "desc": "Тепловизионный прицел Artelv Electron 3.4x 35мм 384x288 LRF. Компактный, легкий, с дальномером."}
+                ]
+            },
+            "pnv": {
+                "name": "Приборы ночного видения",
+                "items": [
+                    {"id": "1001", "name": "Монокуляр NG MNV-14", "price": "265 000 ₽", "photo": "AgACAgIAAxkBAAIGrmliT9Vb5LuAYP5lhUrvswABFVCV8gAC0A5rGw6YEEuqMlqAZ_uGmQEAAwIAA3gAAzgE", "desc": "Монокуляр ночного видения NG MNV-14. Поколение 2+, встроенная ИК-подсветка. Профессиональный ПНВ."},
+                    {"id": "1002", "name": "ПНВ LEKSNIPER 01", "price": "125 999 ₽", "photo": "AgACAgIAAxkBAAIGsGliUBfGSTdCzYwsZRcN7g4uE6a3AALTDmsbDpgQS3coFavBtediAQADAgADeAADOAQ", "desc": "ПНВ LEKSNIPER 01. Компактный прибор ночного видения поколения 2+. Высокое качество изображения в полной темноте."}
+                ]
+            },
+            "binokli": {
+                "name": "Бинокли",
+                "items": [
+                    {"id": "1101", "name": "Бинокль 10x42 Longot", "price": "9 000 ₽", "photo": "AgACAgIAAxkBAAIEZGlb8DzgSFPiBZQFLyftwhLV3sX3AAKsDWsbAXngSjTpJQdBiWVOAQADAgADeAADOAQ", "desc": "Полевой бинокль Longot 10x42. Призмы BaK-4, многослойное просветление, водонепроницаемый корпус."}
+                ]
+            }
+        }
+    }
+}
